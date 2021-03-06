@@ -4,8 +4,8 @@
   "description": "Lambda function for COSI Place",
   "main": "index.js",
   "dependencies": {
-    "alexa-sdk": "^1.0.7",
-    "node-fetch": "^1.6.3"
+    "alexa-sdk": "^1.0.25",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {},
